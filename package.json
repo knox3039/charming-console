@@ -1,0 +1,34 @@
+{
+  "name": "charming-console",
+  "version": "1.0.9",
+  "description": "Bring color and symbols to your terminal easily!",
+  "main": "color.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+   "color",
+  "colour",
+  "color",
+  "sterminal",
+  "console",
+  "cli",
+  "string",
+  "ansi",
+  "style",
+  "styles",
+  "tty",
+  "formatting",
+  "shell",
+  "log",
+  "logging",
+  "command-line",
+  "text",
+  "timestamp",
+  "time-stamp",
+  "spinner",
+  "spinners"
+  ],
+  "author": "",
+  "license": "ISC"
+}
